@@ -1,0 +1,165 @@
+// Include headers in all files to support Atom's Asciidoc Preview plugin.
+:imagesdir: assets
+include::header.adoc[]
+= Tips for long haul travel
+
+
+During the course of the last 10 years, I have perfected the best flight experience to maximize pleasure from travel and minimize jetlag, long waiting times and unpleasant experiences. Stick to these recommendations and you’ll be flying like a pro in no-time. These tips have been gathered the painful way from more then 300 flights and more than 500 000 miles in the air, so that you don’t have to.
+
+== Battling Jetlag
+Jetlag happens when your internal clock is not synchronised with the patterns
+of the sun outside. This happens, when you don’t have a strict regimen at home,
+or when you travel longer distances.
+
+Normally, your internal clock adjusts by one hour every day. Thus, lets say a
+7 hour time difference takes 7 days to get adjusted. However, this can be hacked
+by food and mental exercises.
+
+When it’s time to go to sleep, go to sleep, do not say it’s too early or that
+you are not tired. Just go to bed at 10pm every day. When doing long-distance,
+buy in Slovakia melatonin pills. Have one 60 minutes before sleep (ie. At 9pm or 10pm).
+Have one also on your long flight to sleep. Works like a charm.
+
+NOTE: Samuel's note: Some research suggests that optimal melatonin regimen is to
+ take 0.3mg of melatonin 7 hours before the desired sleep. It's important to not
+ exceed the recommended intake, it's been found that larger quantities negate the
+ effect.
+
+Exercise everyday. Try to do at least 30-45 minutes or exercise when in
+destination. Helps you to wake up and to not feel tired.
+
+* *Matej’s special jetlag combating plan*
+
+** Before you fly, change the time on your watch to match the one in your final
+destination. If for example, you have a 3PM flight from Vienna, you should already
+set your clock to 10PM on your watch. Think of it, “aaah, its already 10pm,
+let me have one beer and dinner and I will just sleep on the plane”.
+
+** In plane, do not drink alcohol. That messes with you. Optimally, do not eat
+at all. A little bit of starving never killed anybody. If you do this, you are
+a ninja in combating the jetlag. You will thank me a lot.
+
+** Once you land, eat the next meal in the local time zone (if its time for
+breakfast, have breakfast).
+
+** Never, I repeat, never take a nap at the destination. Only go to bed after
+sunset and optimally after 9 or 10pm. Sometimes its a struggle, but it’s well
+worth it.
+
+** If you stick to this plan, you will have no jetlag in 2 days. With the food
+hack and fasting on the plane, you can accelerate the internal clock much faster.
+
+
+== Selecting the right flight
+Its not easy to choose the right flight for yourself. What works for me is:
+
+* I don’t care about the departure time, whatever works.
+
+* Layover should not be shorter than 1:30hour and not longer than 4hours.
+
+* If there isn’t a direct flight, choose one long and one short. Always do the
+short leg first if possible. Do not sleep on the short leg, only sleep on the
+long leg.
+
+* Arrival time sometime in the afternoon but not too late. This way I have enough
+time to find the hotel, check-in, unpack, walk around the city and enjoy a nice
+dinner before taking a good night sleep.
+
+* Always try avoiding working the same day you arrive. Use it to recover and get accustomed to the city, it’s smell, it’s vibe.
+
+== Enjoying the airport
+As we’re doing business travel, we can enjoy some benefits of the business travel. Here are my tips:
+
+* In Vienna, go to the MasterCard lounge (you can get access by getting a
+company card from us, or get a free gold MasterCard from UniCredit). If somebody
+from your group has one, he can take up to 4 people in. Chill there, have a
+snack (according to the jetlag battling rules above), charge your computer and
+chill before your flight. I usually come 2 hours before the flight, so I don’t
+stress anything.
+
+* In your layover destination, get into a lounge. If you’re traveling often, get
+a PriorityPass card, if you don’t travel very often, just pay the entry fee.
+The company will reimburse you. In the lounge, you can sometimes shower, get a
+snack, lay down, get a massage or just relax. No need to sit on the uncomfortable
+seat in the airport in you can be in a lounge.
+* In the final destination, get through the immigration with properly filled
+documents. If you’ll fly often to the destination, it’s worth looking into
+EasyEntry ways for foreigners. For a fee (company will pay for it) you’ll be
+able to skip the lines on immigration.
+
+== Selecting the perfect seat
+Here are my tips for perfect seats:
+
+* Get a window seat, perfect for sleeping
+
+* Choose an exit row or bulkhead seat, has more space for legs
+
+* If you get seats at the rear of the plane, there’s less chance they will
+allocate the seat next to you to anybody
+
+* If you’re flying the two of you, get the aisle and the window seat and leave
+the middle free. Unless it’s a totally full flight, nobody will want to sit
+there, so you have a chance of a free seat next to you.
+
+== Selected hacks for flight travel
+
+* Buy a set of noise cancellation headphones. I recommend Bose QuietComfort 35
+Mark II. You can thank me later.
+
+* Buy one of those pillows around your head that you can inflate. Makes a ton of
+difference.
+
+* Buy one of those eye masks and have it with you. Put it on if you want to sleep
+in the airplane (in accordance with the battling jetlag plan)
+
+* Always be hydrated on the flight. Buy a big bottle (0.5L) at the airport before
+you fly out. Drink it during flight.
+
+* Get a moisturising cream that you take with you. Hydrate your face regularly
+during flight (it’s not gay, it feels really good).
+
+* Don’t eat heavy foods, don’t eat the sweets, don’t drink sweet drinks, optimally
+don’t eat at all (in accordance with the battling jetlag plan).
+
+* Get a battery pack so that you can charge your many devices on the go.
+
+* Have some relaxing music (I recommend the app Calm) to listen to as background
+for sleeping for travel.
+
+== Operating normally in remote destinations
+
+Get a bigger suitcase, and more stuff, you’ll spend less time worrying if you
+have everything and have stuff for souvenirs back home.
+
+Try to stick to a regimen that works for you everyday.
+
+.Example for me:
+====
+* 6AM wakeup
+* 6:15 - 7:15 AM Workout
+* 7:30 - 8:30 AM Breakfast at the hotel
+* 9 AM - Office work
+* 12PM - Lunch Break
+* 6 PM - End of work
+* 6:30 - 7:45 PM - Relax, unwind from the day
+* 8 PM - Dinner with colleagues or client
+* 10PM - Drink back at the hotel.
+* 10:30PM - Sleep (don’t forget your sleeping pill)
+====
+
+I take some supplements everyday to stay healthy on the trips. Namely, I use
+Immunoglukan Accut, which boosts your immunity, thus even on long haul trips you
+can stay healthy. It’s s Slovak product and works wonders.
+
+Always have your passport in your pocket if needed. (But have a copy of it
+digitally somewhere). I also carry around 200 USD dollars with me in the pocket
+for whatever reason. Also, I usually carry around 100 USD equivalent in the local
+currency, just if something needs to be paid cash. Otherwise I always pay with a
+card.
+
+Overall, travel can be a lot of fun, not a lot of pain and if executed properly,
+can be smooth without destroying your energy levels. I wish you a lot of happy
+miles and good experiences with travel. For more tips, or individual support,
+feel free to reach out to me directly.
+
+Matej Ftacnik
